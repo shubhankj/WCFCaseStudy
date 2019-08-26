@@ -1,0 +1,11 @@
+C:\Users\320052125\WCFCaseStudy\StaticCodeAnalyser\WebService\bin\WebService.dll.config
+C:\Users\320052125\WCFCaseStudy\StaticCodeAnalyser\WebService\bin\WebService.dll
+C:\Users\320052125\WCFCaseStudy\StaticCodeAnalyser\WebService\bin\WebService.pdb
+C:\Users\320052125\WCFCaseStudy\StaticCodeAnalyser\WebService\bin\StaticCodeAnalyser.exe
+C:\Users\320052125\WCFCaseStudy\StaticCodeAnalyser\WebService\bin\StaticCodeAnalyser.pdb
+C:\Users\320052125\WCFCaseStudy\StaticCodeAnalyser\WebService\bin\StaticCodeAnalyser.exe.config
+C:\Users\320052125\WCFCaseStudy\StaticCodeAnalyser\WebService\obj\Debug\WebService.csprojAssemblyReference.cache
+C:\Users\320052125\WCFCaseStudy\StaticCodeAnalyser\WebService\obj\Debug\WebService.csproj.CoreCompileInputs.cache
+C:\Users\320052125\WCFCaseStudy\StaticCodeAnalyser\WebService\obj\Debug\WebService.csproj.CopyComplete
+C:\Users\320052125\WCFCaseStudy\StaticCodeAnalyser\WebService\obj\Debug\WebService.dll
+C:\Users\320052125\WCFCaseStudy\StaticCodeAnalyser\WebService\obj\Debug\WebService.pdb
