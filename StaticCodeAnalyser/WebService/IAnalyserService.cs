@@ -13,7 +13,11 @@ namespace WebService
     public interface IAnalyserService
     {
         [OperationContract]
-        [WebInvoke(Method ="GET", UriTemplate ="/AnalyseCode/{threshold}",RequestFormat =WebMessageFormat.Json,ResponseFormat =WebMessageFormat.Json,BodyStyle =WebMessageBodyStyle.Wrapped)]
+        [WebInvoke(Method ="GET", UriTemplate ="/AnalyseCode/Absolute/{threshold}",RequestFormat =WebMessageFormat.Json,ResponseFormat =WebMessageFormat.Json,BodyStyle =WebMessageBodyStyle.Wrapped)]
         string AnalyseCode(string threshold);
+
+        [OperationContract]
+        [WebInvoke(Method = "GET", UriTemplate = "/AnalyseCode/Relative", RequestFormat = WebMessageFormat.Json, ResponseFormat = WebMessageFormat.Json, BodyStyle = WebMessageBodyStyle.Wrapped)]
+        string AnalyseCodeAuto();
     }
 }
