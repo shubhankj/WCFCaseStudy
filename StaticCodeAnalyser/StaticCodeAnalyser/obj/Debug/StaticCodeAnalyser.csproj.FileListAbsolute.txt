@@ -5,3 +5,10 @@ C:\Users\320052125\WCFCaseStudy\StaticCodeAnalyser\StaticCodeAnalyser\obj\Debug\
 C:\Users\320052125\WCFCaseStudy\StaticCodeAnalyser\StaticCodeAnalyser\obj\Debug\StaticCodeAnalyser.csproj.CoreCompileInputs.cache
 C:\Users\320052125\WCFCaseStudy\StaticCodeAnalyser\StaticCodeAnalyser\obj\Debug\StaticCodeAnalyser.exe
 C:\Users\320052125\WCFCaseStudy\StaticCodeAnalyser\StaticCodeAnalyser\obj\Debug\StaticCodeAnalyser.pdb
+C:\Users\320052123\WCFCaseStudy\WCFCaseStudy\StaticCodeAnalyser\StaticCodeAnalyser\bin\Debug\StaticCodeAnalyser.exe.config
+C:\Users\320052123\WCFCaseStudy\WCFCaseStudy\StaticCodeAnalyser\StaticCodeAnalyser\bin\Debug\StaticCodeAnalyser.exe
+C:\Users\320052123\WCFCaseStudy\WCFCaseStudy\StaticCodeAnalyser\StaticCodeAnalyser\bin\Debug\StaticCodeAnalyser.pdb
+C:\Users\320052123\WCFCaseStudy\WCFCaseStudy\StaticCodeAnalyser\StaticCodeAnalyser\obj\Debug\StaticCodeAnalyser.csprojAssemblyReference.cache
+C:\Users\320052123\WCFCaseStudy\WCFCaseStudy\StaticCodeAnalyser\StaticCodeAnalyser\obj\Debug\StaticCodeAnalyser.csproj.CoreCompileInputs.cache
+C:\Users\320052123\WCFCaseStudy\WCFCaseStudy\StaticCodeAnalyser\StaticCodeAnalyser\obj\Debug\StaticCodeAnalyser.exe
+C:\Users\320052123\WCFCaseStudy\WCFCaseStudy\StaticCodeAnalyser\StaticCodeAnalyser\obj\Debug\StaticCodeAnalyser.pdb

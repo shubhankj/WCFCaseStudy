@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticCodeAnalyser", "Stati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebService", "WebService\WebService.csproj", "{55A5A751-C094-4574-8720-C0BFBCC6C9F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeAnalysisService", "CodeAnalysisService\CodeAnalysisService.csproj", "{16411760-05AC-4A2F-A607-2FDBC991EF68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{55A5A751-C094-4574-8720-C0BFBCC6C9F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55A5A751-C094-4574-8720-C0BFBCC6C9F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55A5A751-C094-4574-8720-C0BFBCC6C9F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16411760-05AC-4A2F-A607-2FDBC991EF68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16411760-05AC-4A2F-A607-2FDBC991EF68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16411760-05AC-4A2F-A607-2FDBC991EF68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16411760-05AC-4A2F-A607-2FDBC991EF68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

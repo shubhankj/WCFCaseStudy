@@ -26,9 +26,7 @@ namespace StaticCodeAnalyzer
                 cmd.StandardInput.Flush();
                 cmd.StandardInput.Close();
                 cmd.WaitForExit();
-
-                //Process P = Process.Start("CMD.exe", cmd);
-                // return 0;
+                               
                 return cmd.ExitCode;
             }
 
@@ -40,7 +38,13 @@ namespace StaticCodeAnalyzer
             }
         }
 
-        internal static int MergeReports(string file1, string file2, string outfile)
+        internal static  int GetNoOfErrors(string file)
+        {
+            string[] lines = File.ReadAllLines(file);
+            return lines.Length;
+
+        }
+        /*internal static int MergeReports(string file1, string file2, string outfile)
         {
 
             int NoOfErrors = 0;
@@ -59,6 +63,6 @@ namespace StaticCodeAnalyzer
                 return 1;
             }
             return NoOfErrors;
-        }
+        }*/
     }
 }

@@ -17,13 +17,13 @@ namespace WebService
         public string AnalyseCode(string threshold)
         {
             
-            MainClass.SpotBugsTool();
+            //MainClass.SpotBugsTool();
 
-            MainClass.PMDTool();
+            NoOfErrors=MainClass.PMDTool();
 
-            NoOfErrors = MainClass.MergeReports();
+            //NoOfErrors = MainClass.MergeReports();
 
-            string filename = @"C:\Users\320052125\WCFCaseStudy\Errors.txt";
+            string filename = @"C:\Users\320052123\WCFCaseStudy\WCFCaseStudy\Errors.txt";
             var file = File.Open(filename, FileMode.OpenOrCreate);
             using (StreamWriter sw = new StreamWriter(file))
             {
@@ -42,13 +42,13 @@ namespace WebService
         public string AnalyseCodeAuto()
         {
 
-            MainClass.SpotBugsTool();
+            //MainClass.SpotBugsTool();
 
-            MainClass.PMDTool();
+            NoOfErrors=MainClass.PMDTool();
 
-            NoOfErrors = MainClass.MergeReports();
+            //NoOfErrors = MainClass.MergeReports();
 
-            string filename = @"C:\Users\320052125\WCFCaseStudy\Errors.txt";
+            string filename = @"C:\Users\320052123\WCFCaseStudy\Errors.txt";
             int lastLine = Convert.ToInt32(File.ReadLines(filename).Last());
 
             var file = File.Open(filename, FileMode.OpenOrCreate);
